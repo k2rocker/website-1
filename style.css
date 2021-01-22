@@ -1,0 +1,133 @@
+.webcolour
+{
+    background-color: rgb(19, 19, 19);
+}
+.title{
+    font-size: 30 px; 
+    color: floralwhite;
+    text-align:left ;
+    margin-top: 10px;
+    
+}
+h1{
+    font-size: 60px;
+    font-family: 'Potta One', cursive;
+}
+.imagen{
+    width: 100%;
+    
+  
+  border-radius: 100%;
+  
+}
+.container{
+    margin-top: 10%;
+}
+.dot {
+    height: 150px;
+    width: 150px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+   
+  }
+
+  p{
+      padding-top: 10px;
+      font-family: 'Yusei Magic', sans-serif;
+  }
+
+  #atext3{
+    position: relative;
+    top: 60px;
+    left: 20px; 
+    color: rgb(0, 0, 0);
+    font-family: 'Yusei Magic', sans-serif;
+  }
+
+  #atext2{
+    position: relative;
+    top: 60px;
+    left: 30px; 
+    color: rgb(0, 0, 0);
+    font-family: 'Yusei Magic', sans-serif;
+  }
+
+  #spanc3{
+    position:relative; 
+    background-color:rgb(255, 0, 0);
+  }
+  #spanc2{
+    position:relative;
+      background-color:rgb(60, 255, 0);
+  }
+  #spanc1{
+    position:relative;  
+    background-color:yellow;
+  }
+
+  #footer{
+      height: 150px;
+      width: 100%;
+      background-color: rgb(241, 239, 231);
+      position: relative;
+      top:50px;  
+    }
+ #headerp{
+     height: 55px;
+     width: 100%;
+     background-color: rgb(247, 151, 7);
+
+    }
+
+  #anav1{
+    font-size: 30px;
+    color: rgb(255, 255, 255); 
+    position:relative ;
+    left: 520px;
+    bottom: 10px;
+  }  
+  #anav2{
+    font-size: 30px;
+    color: rgb(255, 255, 255); 
+    position:relative ;
+    left: 540px;
+    bottom: 10px;
+  }  
+  #anav3{
+    font-size: 30px;
+    color: rgb(255, 255, 255); 
+    position:relative ;
+    left: 560px;
+    bottom: 10px;
+  }  
+  #anavname{
+      font-size: 30px;
+      color: rgb(0, 0, 0);
+      font-family: 'Luckiest Guy', cursive;
+      position: relative;
+      bottom: 5px;  
+    }
+
+    h5{
+      position: relative;
+      margin-left: 50px;
+    }
+  
+    .focall{
+      height: 50px;
+      width: 50px;
+      border-radius: 100%;
+      background-color: rgb(255, 0, 0);
+      position: relative;
+      top: 50px;
+    }
+   .sizeimg{
+     height: 30px;
+     width: 30px;
+   }
+   .fophoneimg{
+     width: 60px;
+     height: 60px;
+     border-radius: 50%;
+   }
